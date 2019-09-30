@@ -10,6 +10,8 @@
 The goal of mypkg is to play qround to learn how R packages and GitHub
 work.
 
+I am checking this file for conflict.
+
 ## Installation
 
 You can install the released version of mypkg from

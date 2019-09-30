@@ -20,6 +20,8 @@ knitr::opts_chunk$set(
 
 The goal of mypkg is to play qround to learn how R packages and GitHub work.
 
+I am trying to create a conflict here.
+
 ## Installation
 
 You can install the released version of mypkg from [CRAN](https://CRAN.R-project.org) with: 

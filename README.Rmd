@@ -20,7 +20,10 @@ knitr::opts_chunk$set(
 
 The goal of mypkg is to play qround to learn how R packages and GitHub work.
 
+
 I am checking this file for conflict.
+I am trying to create a conflict here.
+
 
 ## Installation
 

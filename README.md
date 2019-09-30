@@ -3,6 +3,8 @@
 
 # mypkg
 
+THis is nice update
+
 <!-- badges: start -->
 
 <!-- badges: end -->
